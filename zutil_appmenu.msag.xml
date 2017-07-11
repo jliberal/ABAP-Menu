@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZUTIL_APPMENU</ARBGB>
+    <MASTERLANG>S</MASTERLANG>
+    <STEXT>APPMENU: Clase de mensajes</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>***DUMMY***</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>ID Aplicación &amp;1 no existe en maestro de aplicaciones &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Rol &amp;2 para ID de app. &amp;1 no existe en maestro de roles &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Usuario &amp;1 no existe en maestro de usuarios &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>ID de item &amp;2 no existe para ID app &amp;1 en maestro de items &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>ID de aplicación &amp; no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>ID item &amp; para ID de aplicación &amp; no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>No existen items para ID de aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>No existe el ID de rol &amp; para el ID de aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>No existen roles para el ID de aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>No existe el usuario &amp; para el ID de aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>No existen usuarios para ID de aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>No existe ID de rol &amp; asociado a ID de item &amp; para ID aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>No existen roles asociados a ID de item &amp; para ID aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>No existen items asociados para el ID de aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>El ID aplicación &amp; configurado en la transacción no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>El menú no tiene opciones configuradas</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>El usuario &amp; no tiene un rol asociado a ninguna opción del menú</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>No existen items asociados a ID de rol &amp; para ID aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>ID de rol &amp; no está asociado al usuario &amp; para ID aplicación &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZUTIL_APPMENU</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>No existen items configurados para el ID de rol &amp; en aplicación &amp;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_UTIL_APPMENU_ROLE_USERS_BO</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>S</LANGU>
+    <DESCRIPT>APPMENU: BO de roles por usuario</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ROLE_USERS_BO</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ROLE_USERS_BO</CLSNAME>
+     <CMPNAME>GET_ALL_USERS_BY_APP</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Busca los usuarios asociados a una aplicación</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ROLE_USERS_BO</CLSNAME>
+     <CMPNAME>GET_SINGLE_USER</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Busca el rol de un usuario</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ROLE_USERS_BO</CLSNAME>
+     <CMPNAME>GS_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>APPMENU: Usuarios por rol</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

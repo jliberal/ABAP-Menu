@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_UTIL_APPMENU_ITEM_ROLE_BO</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>S</LANGU>
+    <DESCRIPT>APPMENU: BO de roles por item de apps</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEM_ROLE_BO</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEM_ROLE_BO</CLSNAME>
+     <CMPNAME>GET_ITEMS_BY_ROLE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Busca los items asociados a un rol</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEM_ROLE_BO</CLSNAME>
+     <CMPNAME>GET_ROLE_BY_APP</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Busca los roles asociados a una aplicación</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEM_ROLE_BO</CLSNAME>
+     <CMPNAME>GET_ROLE_BY_ITEM</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Busca los roles asociados a un item</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEM_ROLE_BO</CLSNAME>
+     <CMPNAME>GET_SINGLE_ITEM_ROLE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Busca un rol asoc. a un item de una app.</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEM_ROLE_BO</CLSNAME>
+     <CMPNAME>GS_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>APPMENU: Roles por item de applicación</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

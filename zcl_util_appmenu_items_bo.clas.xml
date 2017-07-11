@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_UTIL_APPMENU_ITEMS_BO</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>S</LANGU>
+    <DESCRIPT>APPMENU: Items de aplicaciones</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSFINAL>X</CLSFINAL>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <RSTAT>P</RSTAT>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEMS_BO</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEMS_BO</CLSNAME>
+     <CMPNAME>GET_ALL_APP_ITEMS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Regresa todos los items de una aplicación</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEMS_BO</CLSNAME>
+     <CMPNAME>GET_SINGLE_ITEM</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Retorna un item</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEMS_BO</CLSNAME>
+     <CMPNAME>GS_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>APPMENU: Items de desarrollos que usan menu</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEMS_BO</CLSNAME>
+     <CMPNAME>GT_ROLE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>APPMENU: Roles para items por aplicación</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_UTIL_APPMENU_ITEMS_BO</CLSNAME>
+     <CMPNAME>LOAD_ADDITIONAL_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Carga datos adicionales</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
